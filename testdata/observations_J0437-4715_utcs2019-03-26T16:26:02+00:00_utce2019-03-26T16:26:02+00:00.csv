@@ -1,2 +1,2 @@
 Obs ID,Pulsar Jname,UTC Start,Project Short Name,Beam #,Observing Band,Duration (s),Calibration Location
-173,J0437-4715,2019-03-26-16:26:02,PTA,1,LBAND,15.999999999999988,/home/nick/code/test-datasets/testdata/2019-03-26-16:10:39.jones
+173,J0437-4715,2019-03-26-16:26:02,PTA,1,LBAND,15.999999999999988,https://raw.githubusercontent.com/NickSwainston/test-datasets/meerpipe/testdata/2019-03-26-16:10:39.jones
